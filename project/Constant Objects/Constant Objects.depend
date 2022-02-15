@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643073038 source:f:\work\work\c++\project\constant objects\main.cpp
+	<iostream>
+	"constant objects.h"
+
+1643073038 f:\work\work\c++\project\constant objects\constant objects.h
+
